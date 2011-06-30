@@ -175,6 +175,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\hell_11.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\myCmdBase.cpp"
 				>
 			</File>
